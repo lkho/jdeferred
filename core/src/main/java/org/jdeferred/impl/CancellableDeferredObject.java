@@ -1,9 +1,6 @@
 package org.jdeferred.impl;
 
-import org.jdeferred.AlwaysCallback;
-import org.jdeferred.DoneCallback;
-import org.jdeferred.FailCallback;
-import org.jdeferred.ProgressCallback;
+import org.jdeferred.*;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
